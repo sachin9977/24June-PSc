@@ -1,0 +1,17 @@
+input{
+    margin-bottom: 10px;
+    width: 200px;
+}
+
+button{
+    justify-content: center;
+    margin-top: 20px;
+}
+
+a{
+    color: teal;
+}
+
+body{
+    margin-left: 500px;
+}
